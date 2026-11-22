@@ -183,3 +183,4 @@ speed-manga.com##img[src*="728x90"]
 speed-manga.com##img[src*="image.cdend.com"]
 go-manga.com##.bigbanner
 go-manga.com##.adds
+speed-manga.com##.adds

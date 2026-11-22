@@ -188,4 +188,3 @@ speed-manga.com##.dessert-frame
 speed-manga.com##.kln
 speed-manga.com##.manga-reader-notice
 speed-manga.com##.chdesc
-speed-manga.com##.ts-breadcrumb

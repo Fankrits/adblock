@@ -13,3 +13,9 @@ Userscript that removes ads on speed-manga.com, god-manga.com and go-manga.com.
 
 Install: add Tampermonkey (or Violentmonkey), then open the raw file link:
 https://raw.githubusercontent.com/Fankrits/adblock/main/manga-ad-remover.user.js
+
+## adblock-from-list.user.js
+
+Userscript generated from adblock-list.txt. It hides every cosmetic rule in the list on the sites it names, and applies the global rules on all sites.
+
+Install: https://raw.githubusercontent.com/Fankrits/adblock/main/adblock-from-list.user.js

@@ -178,3 +178,8 @@ speed-manga.com,god-manga.com,go-manga.com##a[href*="888paruay"]
 speed-manga.com,god-manga.com,go-manga.com##a[href*="123-hd"]
 speed-manga.com,god-manga.com,go-manga.com##a[href*="ufagoal"]
 speed-manga.com,god-manga.com,go-manga.com##a[href*="ufakick"]
+speed-manga.com##img[src*="728x200"]
+speed-manga.com##img[src*="728x90"]
+speed-manga.com##img[src*="image.cdend.com"]
+go-manga.com##.bigbanner
+go-manga.com##.adds
